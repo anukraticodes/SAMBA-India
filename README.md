@@ -1,4 +1,4 @@
-SAMBA: A Graph-Mamba Approach for Stock Price Prediction  
+SAMBA-India: A Graph-Mamba Approach for Stock Price Prediction  
 [**Paper**](https://arxiv.org/pdf/2410.03707) | [**Dataset**](https://www.kaggle.com/datasets/ehoseinz/stock-market-prediction/data)
 ===
 
@@ -22,11 +22,8 @@ pytorch
 
 Then clone the repository as follows:
 ```shell
-git clone https://github.com/Ali-Meh619/SAMBA.git
+git clone https://github.com/anukraticodes/SAMBA-India.git
 ```
-
-## Dataset
-We utilize three real-world datasets from the US stock market with 82 daily stock features: NASDAQ, New York Stock Exchange (NYSE), and Dow Jones Industrial Average (DJIA), covering the period from January 2010 to November 2023.
 
 ## Description
 
@@ -36,22 +33,7 @@ The file "Training" file contains the code for designing the loss function and t
 The file "Execution" file contains the code for running the model, model parameters, and performance metrics in the training and test phases.\
 The file 'One File Code' contains the entire code in a single file for easy execution.
 
-
-## Citation
-
-If you find our paper and code useful, please kindly cite our paper as follows:
-```bibtex
-@article{samba,
-author = {Mehrabian, Ali and Hoseinzade, Ehsan and Mazloum, Mahdi and Chen, Xiaohong},
-title = {Mamba Meets Financial Markets: {A} Graph-{M}amba Approach for Stock Price Prediction},
-journal = {\rm{accepted for publication in} \textit{Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP)}},
-year = {2025},
-month={Hyderabad, India, Apr.}
-}
 ```
 
-## Contact
 
-Please feel free to contact us if you have any questions:
-- Ali Mehrabian: alimehrabian619@{ece.ubc.ca, yahoo.com}
 
